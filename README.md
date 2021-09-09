@@ -1,0 +1,21 @@
+# Estudos com TypeScript em:
+
+- Sintaxe de Type Annotations
+- Tipo any
+- Tipo void
+- Tipo object (objetos em geral)
+- Tipo array
+- Tipo tuple
+- Tipos null e undefined
+- Tipo never
+- Tipo Enum
+- Tipo unknown
+- Union Types
+- Tipos Literais
+- Type alias
+- Intersection Types
+- Funções como tipo
+- O Structural type system
+- Type assertions
+- Classes em TypeScript
+- Interfaces em TypeScript
