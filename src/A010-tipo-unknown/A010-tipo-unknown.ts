@@ -13,4 +13,5 @@ x = 10;
 
 const y = 800;
 
+// Checando tipo da variável antes da operação
 if (typeof x === 'number') console.log(x + y);
